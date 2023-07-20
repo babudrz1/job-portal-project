@@ -1,0 +1,41 @@
+EXISTING SYSTEM of job portal
+An existing system of a job portal typically includes a web application that allows job seekers to search and apply for job vacancies, and employers to post job vacancies and search for suitable candidates. Here are some of the typical features that can be included in an existing job portal:
+
+Job Search: Job seekers can search for job vacancies by keywords, location, salary range, industry, job type, and other criteria. Job search results can be displayed with relevant job details such as job title, job description, salary, location, and application deadline.
+
+Resume/CV Builder: Job seekers can create their resumes/CVs online, which can be used to apply for job vacancies through the job portal. The resume builder typically includes fields for personal information, work experience, education, skills, and other relevant details.
+
+Job Application: Job seekers can apply for job vacancies through the job portal by uploading their resumes/CVs, cover letters, and other supporting documents. Employers can receive and review job applications through the job portal, and contact the applicants through the portal or via email.
+
+Employer Dashboard: Employers can create and manage their job listings, view and manage job applications, and communicate with the applicants through the job portal. The employer dashboard typically includes features for posting job vacancies, managing job listings, and viewing candidate profiles.
+
+Job Alerts: Job seekers can set up job alerts based on their job search criteria, and receive email notifications when new job vacancies matching their criteria are posted on the job portal.
+
+Analytics and Reporting: The job portal can provide analytics and reporting features for both job seekers and employers, such as job search statistics, job application statistics, resume views, and candidate shortlisting statistics.
+
+User Management: The job portal can include user management features for job seekers and employers, such as user registration, login, password reset, and account management.
+
+Payment Gateway: The job portal can include a payment gateway for employers to pay for their job listings, and for job seekers to pay for premium job search features.
+
+These are some of the common features of an existing job portal. However, the actual features may vary depending on the specific requirements of the job portal and the target audience.
+
+
+
+
+Babu JJ
+disadvantage of job portal
+While job portals have several advantages, there are also some disadvantages that should be considered:
+
+Competition: Due to the ease of access to job vacancies through job portals, there can be a high level of competition for job vacancies, making it more challenging for job seekers to stand out from the crowd.
+
+Limited personal interaction: The lack of personal interaction between job seekers and employers can make it difficult for employers to assess a candidate's personality, work ethic, and cultural fit. Similarly, job seekers may not have the opportunity to ask questions or learn more about the company before applying.
+
+Job scams and fake job listings: Job portals are sometimes used by fraudsters to post fake job listings or scams that can lead to identity theft or financial loss for job seekers.
+
+Over-reliance on technology: Some employers may rely too heavily on technology to filter out candidates, leading to the possibility of qualified candidates being overlooked due to algorithmic screening methods.
+
+Costs: Some job portals charge employers for job postings or premium services, which can be costly for smaller businesses or job seekers who may not have the financial means to access premium job search features.
+
+Lack of geographical scope: While job portals can provide access to job vacancies from around the world, they may not necessarily provide access to local job vacancies in specific regions or cities.
+
+These are some of the disadvantages of job portals. However, the actual drawbacks may vary depending on the specific job portal and the target audience.

@@ -1,0 +1,15 @@
+Unit testing: This involves testing individual units or components of code to ensure that they function correctly in isolation.
+
+Integration testing involves testing how different components or modules of a system work together.
+
+Functional testing: This involves testing the system against its functional requirements to ensure that it meets the expected behavior.
+
+Performance testing: This involves testing the system's performance under different workloads to ensure that it can handle the expected traffic.
+
+Security testing: This involves testing the system's security features and vulnerabilities to ensure that it is protected against possible attacks.
+
+Acceptance testing: This involves testing the system with end-users or stakeholders to ensure that it meets their needs and requirements.
+
+Regression testing: This involves testing to ensure that previously working features have not been affected by changes to the system.
+
+Exploratory testing: This involves a less structured approach to testing, where testers explore the system and its behavior to identify issues that may not be apparent through other types of testing.

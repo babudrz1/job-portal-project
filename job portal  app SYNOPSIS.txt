@@ -1,0 +1,5 @@
+A job portal app is an online platform designed to connect job seekers with potential employers. The app provides job seekers with a range of features, including the ability to create profiles, search and apply for jobs, and communicate with recruiters and hiring managers. Job seekers can also use the app to enhance their resumes, improve their interview skills, and track their job search progress.
+
+Employers can use the app to post job openings, review resumes, and schedule interviews with potential candidates. The app may also offer additional features, such as job alerts, salary information, and career advice.
+
+The job portal app can be accessed through multiple devices, including mobile devices and desktop computers, making it convenient for job seekers to stay connected with potential employers. With its wide range of features and accessibility, a job portal app can make the job search process more efficient and convenient for both job seekers and employers.
